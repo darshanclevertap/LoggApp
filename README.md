@@ -8,7 +8,7 @@ Logg Library for Flutter
 # Usage
 
 ```
-	Logger logger = new Logger(Logger.LogLevel.VERBOSE);
+Logger logger = new Logger(Logger.LogLevel.VERBOSE);
     logger.info(TAG, "This is info log");
     logger.debug(TAG, "This is debug log");
     logger.error(TAG,"This is error log");
